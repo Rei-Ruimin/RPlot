@@ -1,2 +1,6 @@
 # RPlot
-A data visualization software
+first open your cmd
+$ pip install pipenv
+open the file directory
+$ pipenv install
+
