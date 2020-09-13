@@ -1,6 +1,2 @@
 # RPlot
-first open your cmd
-$ pip install pipenv
-open the file directory
-$ pipenv install
-
+A data visualization software. Aug - Sep 2020, my first work term project.
