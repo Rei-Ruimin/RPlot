@@ -29,6 +29,7 @@ For the first time to use RPLOT:
 	code in cmd: exit
 
 For the next time to use RPLOT:
+	
 	1. move to the directory of RPlot
 	code in cmd: cd <the location of RPlot folder>
 
