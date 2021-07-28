@@ -2,6 +2,7 @@
 A data visualization software. Aug - Sep 2020, my first work term project.
 
 --------------------instruction-----------------
+
 For the first time to use RPLOT:
 
 	1. install Python3 and PIP (PIP should be automatically installed with Python 2.7.9+ and Python 3.4+)
